@@ -59,6 +59,7 @@ public class DinoDatabase {
 
     public int getHeaviest() {
         // heaviest dino
+        
         // return empty string if no dino in database
       //  for(Set() s : map.keySet) intList.add(Integer.valueOf(s));
         //    return max(Integer.parseInt(map.keySet())); 
