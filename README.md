@@ -1,4 +1,1 @@
-All materials including weekly hand-ins from my Intro Programming course at ITU 1st semester.
-::
-All materials including hand-ins for my Algorithm and Data Structures course at ITU 2nd Semester.
-::
+Exercises, assignments and project form my 1st Sem. Intro to Programming and my 2nd Sem. Algorithms classes. 
