@@ -1,6 +1,3 @@
-Below is the syntax highlighted version of StaticSETofInts.java.
-
-
 /******************************************************************************
  *  Compilation:  javac StaticSetOfInts.java
  *  Execution:    none
@@ -106,6 +103,3 @@ public class StaticSETofInts {
  *  You should have received a copy of the GNU General Public License
  *  along with algs4.jar.  If not, see http://www.gnu.org/licenses.
  ******************************************************************************/
-
-
-Last updated: Sun Jul 4 10:13:23 EDT 2021.
